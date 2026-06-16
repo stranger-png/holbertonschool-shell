@@ -1,0 +1,15 @@
+total 48
+drwxr-xr-x 2 yanis yanis 4096 Jun 16 11:41 .
+drwxr-xr-x 6 yanis yanis 4096 Jun 16 07:18 ..
+-rwxr-xr-x 1 yanis yanis   31 Jun 16 11:21 0-hello_world
+-rwxr-xr-x 1 yanis yanis   28 Jun 16 11:21 1-confused_smiley
+-rwxr-xr-x 1 yanis yanis   27 Jun 16 11:21 2-hellofile
+-rwxr-xr-x 1 yanis yanis   38 Jun 16 11:21 3-twofiles
+-rwxr-xr-x 1 yanis yanis   28 Jun 16 11:21 4-lastlines
+-rwxr-xr-x 1 yanis yanis   28 Jun 16 11:21 5-firstlines
+-rwxr-xr-x 1 yanis yanis   36 Jun 16 11:21 6-third_line
+-rwxr-xr-x 1 yanis yanis   99 Jun 16 11:21 7-file
+-rwxr-xr-x 1 yanis yanis   33 Jun 16 11:39 8-cwd_state
+-rwxr-xr-x 1 yanis yanis    0 Jun 16 11:37 ls_cwd_content
+-rw-r--r-- 1 yanis yanis    0 Jun 16 11:41 ls_cwd_state
+-rwxr-xr-x 1 yanis yanis   11 Jun 16 11:22 README.md
